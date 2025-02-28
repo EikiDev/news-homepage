@@ -148,6 +148,7 @@ main {
 }
 
 .popular-post-info p {
+    color: hsl(236, 13%, 42%);
     font-size: 15px;
     line-height: 25px;
 }
@@ -251,6 +252,7 @@ main {
 }
 
 .trending-posts-info p {
+    color: hsl(236, 13%, 42%);
     font-size: 15px;
     line-height: 25px;
 }

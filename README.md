@@ -29,8 +29,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Add solution URL here](https://your-solution-url.com)
-- Deploy do projeto: [Add live site URL here](https://your-live-site-url.com)
+- URL da solução: [https://www.frontendmentor.io/solutions/news-homepage-using-css-grid-Q9q-nk_21D](https://www.frontendmentor.io/solutions/news-homepage-using-css-grid-Q9q-nk_21D)
+- Deploy do projeto: [https://eikidev.github.io/news-homepage/](https://eikidev.github.io/news-homepage/)
 
 ## Meu Processo
 
